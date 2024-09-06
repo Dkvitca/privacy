@@ -18,7 +18,7 @@ Checking whether a track is saved in your library and allowing you to save or re
 The extension communicates with the following third-party services:
 
 Spotify API: Used to authenticate your account and manage playback control.
-Custom API (optional): If the extension includes external queries for track or artist details, those requests are made securely to a third-party server (such as the one at https://extesnionapi.onrender.com/).
+Custom API (optional): If the extension includes external queries for track or artist details, those requests are made securely to a third-party server.
 These services have their own privacy policies, and we recommend reviewing them:
 
 Spotify Privacy Policy
